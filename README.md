@@ -1,4 +1,4 @@
-# Customer_Retention_Analytics_and_Churn_Prediction_System
+# Customer_Churn_Prediction_System
 
 An end-to-end Machine Learning project that predicts customer churn using classification algorithms and deploys real-time predictions through a Streamlit web application.
 
